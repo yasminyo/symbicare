@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://symbicare.siu.edu.in/upload/logs/sitemap.xml
+Sitemap: https://cps.cotecna.com/public/logs/sitemap.xml
